@@ -1,0 +1,11 @@
+D:\GitHub\MetricsIntegratorAdapted\MetricsIntegratorAdapted\bin\Debug\netcoreapp3.1\MetricsIntegratorAdapted.exe
+D:\GitHub\MetricsIntegratorAdapted\MetricsIntegratorAdapted\bin\Debug\netcoreapp3.1\MetricsIntegratorAdapted.deps.json
+D:\GitHub\MetricsIntegratorAdapted\MetricsIntegratorAdapted\bin\Debug\netcoreapp3.1\MetricsIntegratorAdapted.runtimeconfig.json
+D:\GitHub\MetricsIntegratorAdapted\MetricsIntegratorAdapted\bin\Debug\netcoreapp3.1\MetricsIntegratorAdapted.runtimeconfig.dev.json
+D:\GitHub\MetricsIntegratorAdapted\MetricsIntegratorAdapted\bin\Debug\netcoreapp3.1\MetricsIntegratorAdapted.dll
+D:\GitHub\MetricsIntegratorAdapted\MetricsIntegratorAdapted\bin\Debug\netcoreapp3.1\MetricsIntegratorAdapted.pdb
+D:\GitHub\MetricsIntegratorAdapted\MetricsIntegratorAdapted\obj\Debug\netcoreapp3.1\MetricsIntegratorAdapted.csprojAssemblyReference.cache
+D:\GitHub\MetricsIntegratorAdapted\MetricsIntegratorAdapted\obj\Debug\netcoreapp3.1\MetricsIntegratorAdapted.AssemblyInfoInputs.cache
+D:\GitHub\MetricsIntegratorAdapted\MetricsIntegratorAdapted\obj\Debug\netcoreapp3.1\MetricsIntegratorAdapted.AssemblyInfo.cs
+D:\GitHub\MetricsIntegratorAdapted\MetricsIntegratorAdapted\obj\Debug\netcoreapp3.1\MetricsIntegratorAdapted.dll
+D:\GitHub\MetricsIntegratorAdapted\MetricsIntegratorAdapted\obj\Debug\netcoreapp3.1\MetricsIntegratorAdapted.pdb
